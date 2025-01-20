@@ -1,9 +1,9 @@
-# Text Classification Assignment: Movie Review Sentiment Analysis
+# Byte Pair Encoding (BPE) Implementation and Evaluation on NLTK Dataset
 
-The goal of this assignment is to implement and compare three text classification algorithms—
-Naive Bayes, Logistic Regression, and Multilayer Perceptron (MLP)—on the NLTK Movie Reviews
-dataset. You will explore the impact of using both raw Term Frequency (TF) and Term Frequency-
-Inverse Document Frequency (TF-IDF) as feature representations.
+The primary goal of this assignment is to implement the Byte Pair Encoding (BPE)
+algorithm for tokenization and assess its performance using a NLTK dataset, with a focus on
+books. Additionally, you will create a reference tokenization using NLTK's punkt tokenizer for
+comparative analysis.
 
 ## Getting Started
 ### Dependencies
