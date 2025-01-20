@@ -28,7 +28,7 @@ conda activate env
 ```
 ### Executing Program
 
-In your active env run the code to open NLP_Assignment1_TextClassification_MRay.ipynb in Jupyter Notebook.  
+In your active env run the code to open NLP_Assignment1_BPE_MRay.ipynb in Jupyter Notebook.  
 
 ```python
 jupyter notebook NLP_Assignment1_TextClassification_MRay.ipynb
